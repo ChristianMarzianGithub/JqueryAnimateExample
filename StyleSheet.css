@@ -1,0 +1,9 @@
+﻿body {
+    background-color: blanchedalmond;
+}
+#square {
+    background: #98bf21;
+    height: 50px;
+    width: 100px;
+    position: absolute;
+}
