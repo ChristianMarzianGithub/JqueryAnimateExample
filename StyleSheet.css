@@ -7,3 +7,12 @@
     width: 100px;
     position: absolute;
 }
+
+#instructions{
+	background: #98bf21;
+    height: 50px;
+    width: 500px;
+    position: absolute;
+    left:100px;
+    top:500px;
+}
